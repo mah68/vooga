@@ -62,8 +62,8 @@ public class LevelBuilder {
 			for (int i=0;i<allChildren.size();i++) {
 				Element sprite = (Element) allChildren.get(i);
 				String classname=sprite.getChild("class").getText();
-				classname=classname.split(" ")[1];
-				LevelEditable LE= (LevelEditable) Class.forName(classname).newInstance();
+//				classname=classname.split(" ")[1];
+				LevelEditable LE= (LevelEditable) Class.forName("sprites."+classname).newInstance();
 				Sprite s = LE.parse(sprite);
 				System.out.println(s.toString());
 				String groupname=sprite.getChild("group").getText();

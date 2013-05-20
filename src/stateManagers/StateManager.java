@@ -72,7 +72,7 @@ public class StateManager{
 	{	
 			removeState(stateToRemove);
 			addState(stateToAdd);
-			System.out.println(currentStates.get(0));
+//			System.out.println(currentStates.get(0));
 		
 		
 	}

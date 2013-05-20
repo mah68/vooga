@@ -7,5 +7,4 @@ public interface Condition {
 	public void reset();
 	
 	
-	
 }

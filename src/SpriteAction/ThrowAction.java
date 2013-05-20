@@ -1,7 +1,7 @@
 package SpriteAction;
 
-import interactiveSprites.InteractiveSprite;
 import sprites.GeneralSprite;
+import sprites.InteractiveSprite;
 
 public class ThrowAction extends SpriteAction{
 

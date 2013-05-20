@@ -1,6 +1,7 @@
 package interactiveSprites;
 
 import sprites.GeneralSprite;
+import sprites.InteractiveSprite;
 import stateManagers.StateManager;
 import stateTransitions.ChangeStateTransition;
 import stateTransitions.StateTransition;

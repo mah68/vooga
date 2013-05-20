@@ -3,8 +3,6 @@ package interactiveSprites.interactiveTest;
 import game.Platformer;
 import input.InputManager;
 import interactiveSprites.InteractiveSpriteCollision;
-import interactiveSprites.KoopaShell_IS;
-import interactiveSprites.Spring_IS;
 
 import java.awt.Color;
 import java.awt.Graphics2D;
@@ -16,6 +14,8 @@ import java.util.Map;
 
 import sprites.Character;
 import sprites.Chris_TestSprite;
+import sprites.KoopaShell_IS;
+import sprites.Spring_IS;
 
 import sprites.WalkingBadGuy;
 import States.State;

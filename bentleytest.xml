@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  This is the root
+  <background>/Users/Bentley/Desktop/Duke University/Senior Year/Spring Semester/CS 108/Eclipse_Workspace/vooga/./src/images/background.jpg</background>
+  <sprites>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>96</x>
+      <y>160</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>160</x>
+      <y>224</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>160</x>
+      <y>192</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>128</x>
+      <y>192</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>128</x>
+      <y>224</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>96</x>
+      <y>224</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>96</x>
+      <y>192</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>128</x>
+      <y>160</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>160</x>
+      <y>160</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>192</x>
+      <y>160</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>192</x>
+      <y>192</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>192</x>
+      <y>224</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>224</x>
+      <y>224</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>224</x>
+      <y>192</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>224</x>
+      <y>160</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>224</x>
+      <y>128</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>192</x>
+      <y>128</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>160</x>
+      <y>128</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>128</x>
+      <y>128</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>96</x>
+      <y>128</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>64</x>
+      <y>128</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>64</x>
+      <y>160</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>32</x>
+      <y>128</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>0</x>
+      <y>128</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>32</x>
+      <y>160</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>0</x>
+      <y>160</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>0</x>
+      <y>192</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>0</x>
+      <y>224</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>32</x>
+      <y>224</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>64</x>
+      <y>224</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>64</x>
+      <y>192</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>32</x>
+      <y>192</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/gd7.gif</image>
+      <group />
+      <x>160</x>
+      <y>384</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/gd5.gif</image>
+      <group />
+      <x>224</x>
+      <y>352</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/gd3.gif</image>
+      <group />
+      <x>128</x>
+      <y>352</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/gd1.gif</image>
+      <group />
+      <x>128</x>
+      <y>384</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>128</x>
+      <y>320</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>160</x>
+      <y>320</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>192</x>
+      <y>320</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>192</x>
+      <y>352</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/gd2.gif</image>
+      <group />
+      <x>224</x>
+      <y>320</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/gd2.gif</image>
+      <group />
+      <x>224</x>
+      <y>352</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/grass.gif</image>
+      <group />
+      <x>256</x>
+      <y>320</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/grass.gif</image>
+      <group />
+      <x>256</x>
+      <y>352</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/grass.gif</image>
+      <group />
+      <x>288</x>
+      <y>320</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/grass.gif</image>
+      <group />
+      <x>288</x>
+      <y>352</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/grass.gif</image>
+      <group />
+      <x>288</x>
+      <y>288</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/gd3.gif</image>
+      <group />
+      <x>256</x>
+      <y>288</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/gd4.gif</image>
+      <group />
+      <x>288</x>
+      <y>256</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/grass.gif</image>
+      <group />
+      <x>320</x>
+      <y>288</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/grass.gif</image>
+      <group />
+      <x>352</x>
+      <y>288</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/grass.gif</image>
+      <group />
+      <x>384</x>
+      <y>288</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/grass.gif</image>
+      <group />
+      <x>384</x>
+      <y>320</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/grass.gif</image>
+      <group />
+      <x>352</x>
+      <y>320</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/grass.gif</image>
+      <group />
+      <x>320</x>
+      <y>320</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/grass.gif</image>
+      <group />
+      <x>320</x>
+      <y>352</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/grass.gif</image>
+      <group />
+      <x>352</x>
+      <y>352</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/grass.gif</image>
+      <group />
+      <x>384</x>
+      <y>352</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>192</x>
+      <y>384</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>224</x>
+      <y>384</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/gd8.gif</image>
+      <group />
+      <x>256</x>
+      <y>384</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/gd8.gif</image>
+      <group />
+      <x>288</x>
+      <y>384</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/gd8.gif</image>
+      <group />
+      <x>320</x>
+      <y>384</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/gd8.gif</image>
+      <group />
+      <x>352</x>
+      <y>384</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/gd1.gif</image>
+      <group />
+      <x>384</x>
+      <y>384</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/gd6.gif</image>
+      <group />
+      <x>416</x>
+      <y>416</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/gd6.gif</image>
+      <group />
+      <x>416</x>
+      <y>352</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/gd6.gif</image>
+      <group />
+      <x>416</x>
+      <y>320</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/gd6.gif</image>
+      <group />
+      <x>416</x>
+      <y>288</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/grass.gif</image>
+      <group />
+      <x>384</x>
+      <y>256</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/grass.gif</image>
+      <group />
+      <x>352</x>
+      <y>256</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/gd3.gif</image>
+      <group />
+      <x>288</x>
+      <y>256</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>288</x>
+      <y>224</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>256</x>
+      <y>224</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>256</x>
+      <y>256</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>224</x>
+      <y>288</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>224</x>
+      <y>256</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>192</x>
+      <y>256</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>192</x>
+      <y>288</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>160</x>
+      <y>288</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>160</x>
+      <y>256</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>128</x>
+      <y>256</y>
+    </sprite>
+    <sprite>
+      <class>Character</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/dirt.gif</image>
+      <group />
+      <x>128</x>
+      <y>288</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/gd4.gif</image>
+      <group />
+      <x>352</x>
+      <y>224</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/grass.gif</image>
+      <group />
+      <x>384</x>
+      <y>256</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/gd6.gif</image>
+      <group />
+      <x>416</x>
+      <y>256</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/gd4.gif</image>
+      <group />
+      <x>384</x>
+      <y>224</y>
+    </sprite>
+    <sprite>
+      <class>No Type</class>
+      <image>/Users/Bentley/Desktop/Level Editor Resources/tiles/gd4.gif</image>
+      <group />
+      <x>672</x>
+      <y>544</y>
+    </sprite>
+  </sprites>
+</root>

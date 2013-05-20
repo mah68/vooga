@@ -2,7 +2,6 @@ package core.test;
 
 import input.InputManager;
 import interactiveSprites.InteractiveSpriteCollision;
-import interactiveSprites.Spring_IS;
 
 import java.awt.Color;
 import java.awt.Graphics2D;
@@ -14,6 +13,7 @@ import levelBuilder.PlayFieldBuilder;
 
 import sprites.Chris_TestSprite;
 import sprites.GeneralSprite;
+import sprites.Spring_IS;
 import sprites.WalkingBadGuy;
 import States.State;
 
